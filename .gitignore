@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Logs and debugging
+*.log
+
+# OS-specific files
+.DS_Store
+
+# Jupyter Notebook checkpoints (if using)
+.ipynb_checkpoints/
+
+# Optional: Ignore all env files
+.env.*
