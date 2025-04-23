@@ -1,0 +1,31 @@
+
+--
+[EVENING] 2025-04-23 20:36
+🌆 Did you go outside today?
+-> /checkin night
+💧 How was your water and food intake?
+-> /eod
+🧘 One moment that felt good or grounding today?
+-> /weeklywrap
+
+--
+[MORNING] 2025-04-23 20:36
+🌤️ How are you feeling *physically* this morning?
+-> /checkin evening
+🧠 And mentally?
+-> /checkin night
+How about emotionally?
+-> /eod
+💬 What’s one thing you want vs need today?
+-> /weeklywrap
+🎯 What are 1–3 intentions or tasks you’d like to aim for?
+-> /regulate
+
+--
+[NIGHT] 2025-04-23 20:36
+🌙 Did you feel up to your tasks today?
+-> /eod
+📉 Any unmet needs or feelings that came up?
+-> /weeklywrap
+📅 What should tomorrow look like — or how can you do better for yourself?
+-> /regulate
